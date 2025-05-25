@@ -1332,7 +1332,9 @@
       max-height: 180px;
       margin-bottom: 30px;
     }
-  
+  img{
+    border-radius: 10px;
+  }
     .sidebar.active { max-height: 584px; }
   
     .sidebar-info { gap: 25px; }
